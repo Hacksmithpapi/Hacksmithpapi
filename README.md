@@ -1,4 +1,4 @@
-minecraftmod_create
+minecraftmod_create.com
 
 
 <!---
